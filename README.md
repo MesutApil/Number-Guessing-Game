@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-A C++ application that will have the user to guess a 3-digit number. The game will give hints based off of your guess. 
+A C++ application that will have the user to guess a 3-digit number. The game will give hints based off of your guess. User has 10 tries in total. The hints are, if the program prints out "B" that means no digit is correct, if it prints out "P" that means one digit is correct but in the wrong place, if it prints out "F" that means one digit is correct and in the correct place.
